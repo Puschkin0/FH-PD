@@ -1,0 +1,58 @@
+/*
+ * Pixel Dungeon
+ * Copyright (C) 2012-2015 Oleg Dolya
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>
+ */
+package com.dit599.customPD.levels.painters;
+
+import com.dit599.customPD.Dungeon;
+import com.dit599.customPD.actors.Actor;
+import com.dit599.customPD.actors.mobs.npcs.Blacksmith;
+import com.dit599.customPD.items.Generator;
+import com.dit599.customPD.items.Item;
+import com.dit599.customPD.levels.Level;
+import com.dit599.customPD.levels.Room;
+import com.dit599.customPD.levels.Terrain;
+import com.watabou.utils.Random;
+
+public class BlacksmithPainter extends Painter {
+
+	public static void paint( Level level, Room room ) {
+
+		fill( level, room, Terrain.WALL );
+		fill( level, room, 1, Terrain.FIRE_TRAP );
+		fill( level, room, 2, Terrain.EMPTY_SP );
+
+//		if(Dungeon.template == null){
+			Item [] items = new Item[2]; 
+			for (int i=0; i < items.length; i++) {
+				items[i] = Generator.random( Random.oneOf(Generator.Category.ARMOR, 
+						Generator.Category.WEAPON));
+			}
+			placeItems(items, Terrain.EMPTY_SP, level, room);
+//		}
+		for (Room.Door door : room.connected.values()) {
+			door.set( Room.Door.Type.UNLOCKED );
+			drawInside( level, room, door, 1, Terrain.EMPTY );
+		}
+
+		Blacksmith npc = new Blacksmith();
+		do {
+			npc.pos = room.random( 1 );
+		} while (level.heaps.get( npc.pos ) != null);
+		level.mobs.add( npc );
+		Actor.occupyCell( npc );
+	}
+}

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\Projekte\2018\FH-PD\app\src\main\res"/><source path="D:\Projekte\2018\FH-PD\app\build\generated\res\rs\debug"/><source path="D:\Projekte\2018\FH-PD\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Projekte\2018\FH-PD\app\src\main\res"><file name="armors" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\armors.png" qualifiers="hdpi-v4" type="drawable"/><file name="food" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\food.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_remove" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\ic_action_remove.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="key" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\key.png" qualifiers="hdpi-v4" type="drawable"/><file name="potions" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\potions.png" qualifiers="hdpi-v4" type="drawable"/><file name="rings" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\rings.png" qualifiers="hdpi-v4" type="drawable"/><file name="scrolls" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\scrolls.png" qualifiers="hdpi-v4" type="drawable"/><file name="seeds" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\seeds.png" qualifiers="hdpi-v4" type="drawable"/><file name="skull" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\skull.png" qualifiers="hdpi-v4" type="drawable"/><file name="sword" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\sword.png" qualifiers="hdpi-v4" type="drawable"/><file name="wands" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-hdpi\wands.png" qualifiers="hdpi-v4" type="drawable"/><file name="armors" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\armors.png" qualifiers="mdpi-v4" type="drawable"/><file name="food" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\food.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_remove" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\ic_action_remove.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="key" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\key.png" qualifiers="mdpi-v4" type="drawable"/><file name="potions" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\potions.png" qualifiers="mdpi-v4" type="drawable"/><file name="rings" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\rings.png" qualifiers="mdpi-v4" type="drawable"/><file name="scrolls" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\scrolls.png" qualifiers="mdpi-v4" type="drawable"/><file name="seeds" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\seeds.png" qualifiers="mdpi-v4" type="drawable"/><file name="skull" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\skull.png" qualifiers="mdpi-v4" type="drawable"/><file name="sword" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\sword.png" qualifiers="mdpi-v4" type="drawable"/><file name="wands" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-mdpi\wands.png" qualifiers="mdpi-v4" type="drawable"/><file name="armors" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\armors.png" qualifiers="xhdpi-v4" type="drawable"/><file name="food" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\food.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_remove" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\ic_action_remove.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="key" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\key.png" qualifiers="xhdpi-v4" type="drawable"/><file name="potions" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\potions.png" qualifiers="xhdpi-v4" type="drawable"/><file name="rings" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\rings.png" qualifiers="xhdpi-v4" type="drawable"/><file name="scrolls" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\scrolls.png" qualifiers="xhdpi-v4" type="drawable"/><file name="seeds" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\seeds.png" qualifiers="xhdpi-v4" type="drawable"/><file name="skull" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\skull.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sword" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\sword.png" qualifiers="xhdpi-v4" type="drawable"/><file name="wands" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xhdpi\wands.png" qualifiers="xhdpi-v4" type="drawable"/><file name="armors" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\armors.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="food" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\food.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_remove" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\ic_action_remove.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="key" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\key.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="potions" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\potions.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="rings" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\rings.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="scrolls" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\scrolls.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="seeds" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\seeds.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="skull" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\skull.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sword" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\sword.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="wands" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxhdpi\wands.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="armors" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\armors.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="food" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\food.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_action_remove" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\ic_action_remove.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="key" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\key.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="potions" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\potions.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="rings" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\rings.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="scrolls" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\scrolls.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="seeds" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\seeds.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="skull" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\skull.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="sword" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\sword.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="wands" path="D:\Projekte\2018\FH-PD\app\src\main\res\drawable-xxxhdpi\wands.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="activity_editor_ui" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\activity_editor_ui.xml" qualifiers="" type="layout"/><file name="customizable_item" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\customizable_item.xml" qualifiers="" type="layout"/><file name="customizable_item2" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\customizable_item2.xml" qualifiers="" type="layout"/><file name="customizable_item3" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\customizable_item3.xml" qualifiers="" type="layout"/><file name="customizable_item_activity" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\customizable_item_activity.xml" qualifiers="" type="layout"/><file name="customizable_item_activity2" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\customizable_item_activity2.xml" qualifiers="" type="layout"/><file name="customizable_item_activity3" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\customizable_item_activity3.xml" qualifiers="" type="layout"/><file name="fragment_tab" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\fragment_tab.xml" qualifiers="" type="layout"/><file name="item_list_footer" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\item_list_footer.xml" qualifiers="" type="layout"/><file name="item_spinner" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\item_spinner.xml" qualifiers="" type="layout"/><file name="item_sublayout" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\item_sublayout.xml" qualifiers="" type="layout"/><file name="listrow_details" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\listrow_details.xml" qualifiers="" type="layout"/><file name="listrow_group" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\listrow_group.xml" qualifiers="" type="layout"/><file name="mapselect" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\mapselect.xml" qualifiers="" type="layout"/><file name="map_edit_activity" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\map_edit_activity.xml" qualifiers="" type="layout"/><file name="mobitem" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\mobitem.xml" qualifiers="" type="layout"/><file name="remove_item" path="D:\Projekte\2018\FH-PD\app\src\main\res\layout\remove_item.xml" qualifiers="" type="layout"/><file path="D:\Projekte\2018\FH-PD\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="D:\Projekte\2018\FH-PD\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Your Pixel Dungeon</string><string name="title_activity_main">MainActivity</string><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="title">Map Editor</string><string name="theme">choose theme</string><string name="frequence">choose frequence</string><string name="limit">choose limit</string><string-array name="themes">
+        <item>CavesBossLevel</item>
+        <item>CavesLevel</item>
+        <item>CityBossLevel</item>
+        <item>CityLevel</item>
+        <item>DeadEndLevel</item>
+        <item>HallsBossLevel</item>
+        <item>HallsLevel</item>
+        <item>LastLevel</item>
+        <item>LastShopLevel</item>
+        <item>PrisonBossLevel</item>
+        <item>PrisonLevel</item>
+        <item>RegularLevel</item>
+        <item>SewerBossLevel</item>
+        <item>SewerLevel</item>
+        <item>TutorialBossLevel</item>
+        <item>TutorialLevel</item>
+    </string-array><string-array name="mob_limits">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array><string-array name="magicitem_level">
+
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array><string-array name="frequence">
+        <item>High</item>
+        <item>Mid</item>
+        <item>Low</item>
+    </string-array><string-array name="mob_type">
+        <item>Acidic</item>
+        <item>Albino</item>
+        <item>Bandit</item>
+        <item>Bat</item>
+        <item>Brute</item>
+        <item>Crab</item>
+        <item>DM300</item>
+        <item>Elemental</item>
+        <item>Eye</item>
+        <item>Gnoll</item>
+        <item>Golem</item>
+        <item>Goo</item>
+        <item>King</item>
+        <item>Monk</item>
+        <item>Piranha</item>
+        <item>Rat</item>
+        <item>Scorpio</item>
+        <item>Senior</item>
+        <item>Shaman</item>
+        <item>Shielded</item>
+        <item>Skeleton</item>
+        <item>Spinner</item>
+        <item>Statue</item>
+        <item>Succubus</item>
+        <item>Swarm</item>
+        <item>Tengu</item>
+        <item>Thief</item>
+        <item>Warlock</item>
+        <item>Wraith</item>
+        <item>Yog</item>
+    </string-array><string-array name="armortype">
+        <item>Leather</item>
+    </string-array><string-array name="armorench">
+        <item>None</item>
+    </string-array><string-array name="item_levels">
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array><string-array name="mobtype">
+        <item>Rat</item>
+    </string-array><string-array name="potiontype">
+        <item>Healing Potion</item>
+        <item>Experience Potion</item>
+        <item>Strength Potion</item>
+        <item>Might Potion</item>
+        <item>Liquid Flame Potion</item>
+        <item>Frost Potion</item>
+        <item>Invisibility Potion</item>
+        <item>Levitation Potion</item>
+        <item>Mind Vision Potion</item>
+        <item>Paralytic Gas Potion</item>
+        <item>Toxic Gas Potion</item>
+        <item>Purity Potion</item>
+    </string-array><string-array name="scrolltype">
+        <item>Scroll of Identify</item>
+        <item>Scroll of Remove Curse</item>
+        <item>Scroll of Magic Mapping</item>
+        <item>Scroll of Upgrade</item>
+        <item>Scroll of Weapon Upgrade</item>
+        <item>Scroll of Recharging</item>
+        <item>Scroll of Teleportation</item>
+        <item>Scroll of Challenge</item>
+        <item>Scroll of Lullaby</item>
+        <item>Scroll of Terror</item>
+        <item>Scroll of Mirror Image</item>
+        <item>Scroll of Psionic Blast</item>
+    </string-array><string-array name="seedtype">
+        <item>Dreamweed Seed</item>
+        <item>Earthroot Seed</item>
+        <item>Fadeleaf Seed</item>
+        <item>Firebloom Seed</item>
+        <item>Icecap Seed</item>
+        <item>Sorrowmoss Seed</item>
+        <item>Sungrass Seed</item>
+    </string-array><string-array name="roomtype">
+        <item>Armory</item>
+        <item>Crypt</item>
+        <item>Garden</item>
+        <item>Laboratory</item>
+        <item>Library</item>
+        <item>Magic Well</item>
+        <item>Piranha Room</item>
+        <item>Animated Statue Room</item>
+        <item>Storage</item>
+        <item>Trapped Room</item>
+        <item>Treasury</item>
+        <item>Vault</item>
+    </string-array><string-array name="ringtype">
+        <item>Ring of Accuracy</item>
+        <item>Ring of Detection</item>
+        <item>Ring of Elements</item>
+        <item>Ring of Evasion</item>
+        <item>Ring of Haggler</item>
+        <item>Ring of Haste</item>
+        <item>Ring of Herbalism</item>
+        <item>Ring of Mending</item>
+        <item>Ring of Power</item>
+        <item>Ring of Satiety</item>
+        <item>Ring of Shadows</item>
+        <item>Ring of Thorns</item>
+    </string-array><string-array name="wandtype">
+        <item>Wand of Amok</item>
+        <item>Wand of Avalanche</item>
+        <item>Wand of Blink</item>
+        <item>Wand of Disintegration</item>
+         <item>Wand of Firebolt</item>
+        <item>Wand of Flock</item>
+        <item>Wand of Lightning</item>
+        <item>Wand of Magic Missile</item>
+         <item>Wand of Poison</item>
+        <item>Wand of Regrowth</item>
+        <item>Wand of Slowness</item>
+        <item>Wand of Teleportation</item>
+         <item>Wand of Telekinesis</item>
+    </string-array><string-array name="consumabltetype">
+        <item>Ankh</item>
+        <item>Dew Vial</item>
+        <item>Gold</item>
+        <item>Food</item>
+         <item>Mystery Meat</item>
+        <item>Scroll Holder</item>
+        <item>Seed Pouch</item>
+        <item>Wand Holster</item>
+         <item>Armor Kit</item>
+        <item>Weightstone</item>
+        <item>Lloyd´s Beacon</item>
+        <item>Arcane Stylus</item>
+         <item>Tome of Mastery</item>
+        <item>Torch</item>
+        <item>Dart</item>
+        <item>Incendiary Dart</item>
+         <item>Curare Dart</item>
+        <item>Shuriken</item>
+        <item>Javelin</item>
+        <item>Tomahawk</item>
+    </string-array><string-array name="mobfrequ">
+        <item>Never</item>   
+        <item>Rare</item>
+        <item>Default</item>
+        <item>Common</item>
+        <item>Frequent</item>
+    </string-array><string-array name="bosschoose">
+        <item>None</item>
+        <item>Exist</item>
+    </string-array></file></source><source path="D:\Projekte\2018\FH-PD\app\build\generated\res\rs\debug"/><source path="D:\Projekte\2018\FH-PD\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\Projekte\2018\FH-PD\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\Projekte\2018\FH-PD\app\src\debug\res"/></dataSet><mergedItems/></merger>

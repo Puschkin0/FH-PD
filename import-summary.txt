@@ -1,0 +1,137 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\codeStyles\
+* .idea\codeStyles\Project.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* LICENSE.txt
+* README.md
+* pdclasses\
+* pdclasses\com\
+* pdclasses\com\watabou\
+* pdclasses\com\watabou\glscripts\
+* pdclasses\com\watabou\glscripts\Script.java
+* pdclasses\com\watabou\gltextures\
+* pdclasses\com\watabou\gltextures\Atlas.java
+* pdclasses\com\watabou\gltextures\Gradient.java
+* pdclasses\com\watabou\gltextures\SmartTexture.java
+* pdclasses\com\watabou\gltextures\TextureCache.java
+* pdclasses\com\watabou\glwrap\
+* pdclasses\com\watabou\glwrap\Attribute.java
+* pdclasses\com\watabou\glwrap\Framebuffer.java
+* pdclasses\com\watabou\glwrap\Matrix.java
+* pdclasses\com\watabou\glwrap\Program.java
+* pdclasses\com\watabou\glwrap\Quad.java
+* pdclasses\com\watabou\glwrap\Renderbuffer.java
+* pdclasses\com\watabou\glwrap\Shader.java
+* pdclasses\com\watabou\glwrap\Texture.java
+* pdclasses\com\watabou\glwrap\Uniform.java
+* pdclasses\com\watabou\input\
+* pdclasses\com\watabou\input\Keys.java
+* pdclasses\com\watabou\input\Touchscreen.java
+* pdclasses\com\watabou\noosa\
+* pdclasses\com\watabou\noosa\BitmapText.java
+* pdclasses\com\watabou\noosa\BitmapTextMultiline.java
+* pdclasses\com\watabou\noosa\Camera.java
+* pdclasses\com\watabou\noosa\ColorBlock.java
+* pdclasses\com\watabou\noosa\Game.java
+* pdclasses\com\watabou\noosa\Gizmo.java
+* pdclasses\com\watabou\noosa\Group.java
+* pdclasses\com\watabou\noosa\Image.java
+* pdclasses\com\watabou\noosa\MovieClip.java
+* pdclasses\com\watabou\noosa\NinePatch.java
+* pdclasses\com\watabou\noosa\NoosaScript.java
+* pdclasses\com\watabou\noosa\PseudoPixel.java
+* pdclasses\com\watabou\noosa\Resizable.java
+* pdclasses\com\watabou\noosa\Scene.java
+* pdclasses\com\watabou\noosa\SkinnedBlock.java
+* pdclasses\com\watabou\noosa\TextureFilm.java
+* pdclasses\com\watabou\noosa\Tilemap.java
+* pdclasses\com\watabou\noosa\TouchArea.java
+* pdclasses\com\watabou\noosa\Visual.java
+* pdclasses\com\watabou\noosa\audio\
+* pdclasses\com\watabou\noosa\audio\Music.java
+* pdclasses\com\watabou\noosa\audio\Sample.java
+* pdclasses\com\watabou\noosa\particles\
+* pdclasses\com\watabou\noosa\particles\Emitter.java
+* pdclasses\com\watabou\noosa\particles\PixelParticle.java
+* pdclasses\com\watabou\noosa\tweeners\
+* pdclasses\com\watabou\noosa\tweeners\AlphaTweener.java
+* pdclasses\com\watabou\noosa\tweeners\CameraScrollTweener.java
+* pdclasses\com\watabou\noosa\tweeners\Delayer.java
+* pdclasses\com\watabou\noosa\tweeners\PosTweener.java
+* pdclasses\com\watabou\noosa\tweeners\ScaleTweener.java
+* pdclasses\com\watabou\noosa\tweeners\Tweener.java
+* pdclasses\com\watabou\noosa\ui\
+* pdclasses\com\watabou\noosa\ui\Button.java
+* pdclasses\com\watabou\noosa\ui\CheckBox.java
+* pdclasses\com\watabou\noosa\ui\Component.java
+* pdclasses\com\watabou\utils\
+* pdclasses\com\watabou\utils\BitmapCache.java
+* pdclasses\com\watabou\utils\BitmapFilm.java
+* pdclasses\com\watabou\utils\Bundlable.java
+* pdclasses\com\watabou\utils\Bundle.java
+* pdclasses\com\watabou\utils\Callback.java
+* pdclasses\com\watabou\utils\ColorMath.java
+* pdclasses\com\watabou\utils\GameMath.java
+* pdclasses\com\watabou\utils\Graph.java
+* pdclasses\com\watabou\utils\PathFinder.java
+* pdclasses\com\watabou\utils\Point.java
+* pdclasses\com\watabou\utils\PointF.java
+* pdclasses\com\watabou\utils\Random.java
+* pdclasses\com\watabou\utils\Rect.java
+* pdclasses\com\watabou\utils\Signal.java
+* pdclasses\com\watabou\utils\SparseArray.java
+* pdclasses\com\watabou\utils\SystemTime.java
+* pixel-dungeon.iml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:26.0.0-alpha1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

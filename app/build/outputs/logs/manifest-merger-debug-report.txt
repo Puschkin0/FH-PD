@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:1-109:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b7cd341b7daf150317fe27b80acfc7e8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\bc0657acb626b422a81fda87ebffb5aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\fd6d92a3ccf486a84fd1eb62ae9d2751\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\06459426c255437e7187782da204fae1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d8e0ef9ca618327043e3b2d987212aa0\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:6:5-31
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:10:22-78
+uses-sdk
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b7cd341b7daf150317fe27b80acfc7e8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b7cd341b7daf150317fe27b80acfc7e8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\bc0657acb626b422a81fda87ebffb5aa\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\bc0657acb626b422a81fda87ebffb5aa\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\fd6d92a3ccf486a84fd1eb62ae9d2751\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\fd6d92a3ccf486a84fd1eb62ae9d2751\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\06459426c255437e7187782da204fae1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\06459426c255437e7187782da204fae1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d8e0ef9ca618327043e3b2d987212aa0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d8e0ef9ca618327043e3b2d987212aa0\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:12:5-14:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:14:9-38
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:13:9-35
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:16:5-54
+	android:glEsVersion
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:16:19-51
+supports-screens
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:18:5-21:40
+	android:largeScreens
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:19:9-36
+	android:smallScreens
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:21:9-37
+	android:normalScreens
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:20:9-37
+application
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:24:5-108:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b7cd341b7daf150317fe27b80acfc7e8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b7cd341b7daf150317fe27b80acfc7e8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\bc0657acb626b422a81fda87ebffb5aa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\bc0657acb626b422a81fda87ebffb5aa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\fd6d92a3ccf486a84fd1eb62ae9d2751\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\fd6d92a3ccf486a84fd1eb62ae9d2751\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\06459426c255437e7187782da204fae1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\06459426c255437e7187782da204fae1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d8e0ef9ca618327043e3b2d987212aa0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d8e0ef9ca618327043e3b2d987212aa0\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:25:9-36
+	android:theme
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:28:9-50
+activity#com.dit599.customPD.CustomPD
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:29:9-39:20
+	android:screenOrientation
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:33:13-77
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:30:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.dit599.customPD.editorUI.FloorsListActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:40:9-46:20
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:40:19-82
+intent-filter#action:name:com.dit599.customPD.editorUI.FloorsListActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:41:13-45:29
+action#com.dit599.customPD.editorUI.FloorsListActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:42:17-90
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:42:25-87
+category#android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:44:27-73
+activity#com.dit599.customPD.editorUI.MapEditActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:47:9-55:20
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:49:13-41
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:48:13-72
+intent-filter#action:name:com.dit599.customPD.editorUI.MapEditActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:50:13-54:29
+action#com.dit599.customPD.editorUI.MapEditActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:51:17-87
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:51:25-84
+activity#com.dit599.customPD.editorUI.MapMobItemActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:56:9-64:20
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:58:13-40
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:57:13-76
+intent-filter#action:name:com.dit599.customPD.editorUI.MapMobItemActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:59:13-63:29
+action#com.dit599.customPD.editorUI.MapMobItemActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:60:17-90
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:60:25-87
+activity#com.dit599.customPD.editorUI.MapSelectArmorActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:65:9-71:20
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:65:19-85
+intent-filter#action:name:com.dit599.customPD.editorUI.MapSelectArmorActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:66:13-70:29
+action#com.dit599.customPD.editorUI.MapSelectArmorActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:67:17-94
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:67:25-91
+activity#com.dit599.customPD.editorUI.MapSelectorActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:72:9-80:20
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:74:13-33
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:73:13-76
+intent-filter#action:name:com.dit599.customPD.editorUI.MapSelectorActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:75:13-79:29
+action#com.dit599.customPD.editorUI.MapSelectorActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:76:17-91
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:76:25-88
+activity#com.dit599.customPD.editorUI.EnchantableItemsActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:81:9-89:20
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:83:13-34
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:82:13-81
+intent-filter#action:name:com.dit599.customPD.editorUI.EnchantableItemsActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:84:13-88:29
+action#com.dit599.customPD.editorUI.EnchantableItemsActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:85:17-96
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:85:25-93
+activity#com.dit599.customPD.editorUI.ItemsActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:90:9-98:20
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:92:13-34
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:91:13-70
+intent-filter#action:name:com.dit599.customPD.editorUI.ItemsActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:93:13-97:29
+action#com.dit599.customPD.editorUI.ItemsActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:94:17-85
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:94:25-82
+activity#com.dit599.customPD.editorUI.MagicItemsActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:99:9-107:20
+	android:label
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:101:13-34
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:100:13-75
+intent-filter#action:name:com.dit599.customPD.editorUI.MagicItemsActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:102:13-106:29
+action#com.dit599.customPD.editorUI.MagicItemsActivity
+ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:103:17-90
+	android:name
+		ADDED from D:\Projekte\2018\FH-PD\app\src\main\AndroidManifest.xml:103:25-87
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b7cd341b7daf150317fe27b80acfc7e8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b7cd341b7daf150317fe27b80acfc7e8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\bc0657acb626b422a81fda87ebffb5aa\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\bc0657acb626b422a81fda87ebffb5aa\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\fd6d92a3ccf486a84fd1eb62ae9d2751\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\fd6d92a3ccf486a84fd1eb62ae9d2751\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\06459426c255437e7187782da204fae1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\06459426c255437e7187782da204fae1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d8e0ef9ca618327043e3b2d987212aa0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d8e0ef9ca618327043e3b2d987212aa0\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pusch\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\20e809d216148836cf2e1cc02ab26fa9\AndroidManifest.xml:26:9-47

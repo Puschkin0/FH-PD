@@ -1,0 +1,225 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="#000000">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <TextView
+            android:id="@+id/mapselecttv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Theme :"
+            android:textSize="16sp" >
+        </TextView>
+
+        <Spinner
+            android:id="@+id/theme_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:prompt="@string/theme" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <TextView
+            android:id="@+id/mapselecttv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mob Frequency :"
+            android:textSize="16sp" >
+        </TextView>
+
+        <Spinner
+            android:id="@+id/frequency_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:prompt="@string/frequence" />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <TextView
+            android:id="@+id/mapselecttv3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mob Limit :"
+            android:textSize="16sp" >
+        </TextView>
+
+        <Spinner
+            android:id="@+id/mob_limit_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:prompt="@string/limit" />
+        
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4"
+        android:layout_marginTop="5dp" >
+
+        <ImageButton
+            android:id="@+id/mobsbutton1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/skull" />
+
+        <ImageButton
+            android:id="@+id/mobsbutton2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/skull" />
+
+        <ImageButton
+            android:id="@+id/mobsbutton3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/skull" />
+
+        <ImageButton
+            android:id="@+id/mobsbutton4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/skull" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="2" >
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+	
+	        <Button
+	            android:id="@+id/weaponbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Weapons"
+	            android:drawableTop="@drawable/sword" />
+	
+	        <Button
+	            android:id="@+id/armorbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Armor"
+	            android:drawableTop="@drawable/armors" />
+	
+	        <Button
+	            android:id="@+id/potionbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Potions"
+	            android:drawableTop="@drawable/potions" />
+	
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:weightSum="3" >
+	
+	        <Button
+	            android:id="@+id/scrollbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Scrolls"
+	            android:drawableTop="@drawable/scrolls" />
+	
+	        <Button
+	            android:id="@+id/roomsbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Rooms"
+	            android:drawableTop="@drawable/key" />
+	
+	        <Button
+	            android:id="@+id/seedbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Seeds"
+	            android:drawableTop="@drawable/seeds" />
+	
+	    </LinearLayout>
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:weightSum="3" >
+	
+	        <Button
+	            android:id="@+id/wandbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Wands"
+	            android:drawableTop="@drawable/wands" />
+	
+	        <Button
+	            android:id="@+id/ringbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Rings"
+	            android:drawableTop="@drawable/rings" />
+	
+	        <Button
+	            android:id="@+id/consumablesbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1"
+	            android:text="Other"
+	            android:drawableTop="@drawable/food" />
+	
+	    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+</ScrollView>

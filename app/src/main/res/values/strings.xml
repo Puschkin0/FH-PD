@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Your Pixel Dungeon</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Map Editor</string>
+    <string name="theme">choose theme</string>
+    <string name="frequence">choose frequence</string>
+    <string name="limit">choose limit</string>
+
+    <string-array name="themes">
+        <item>CavesBossLevel</item>
+        <item>CavesLevel</item>
+        <item>CityBossLevel</item>
+        <item>CityLevel</item>
+        <item>DeadEndLevel</item>
+        <item>HallsBossLevel</item>
+        <item>HallsLevel</item>
+        <item>LastLevel</item>
+        <item>LastShopLevel</item>
+        <item>PrisonBossLevel</item>
+        <item>PrisonLevel</item>
+        <item>RegularLevel</item>
+        <item>SewerBossLevel</item>
+        <item>SewerLevel</item>
+        <item>TutorialBossLevel</item>
+        <item>TutorialLevel</item>
+    </string-array>
+    <string-array name="mob_limits">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="magicitem_level">
+
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="frequence">
+        <item>High</item>
+        <item>Mid</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="mob_type">
+        <item>Acidic</item>
+        <item>Albino</item>
+        <item>Bandit</item>
+        <item>Bat</item>
+        <item>Brute</item>
+        <item>Crab</item>
+        <item>DM300</item>
+        <item>Elemental</item>
+        <item>Eye</item>
+        <item>Gnoll</item>
+        <item>Golem</item>
+        <item>Goo</item>
+        <item>King</item>
+        <item>Monk</item>
+        <item>Piranha</item>
+        <item>Rat</item>
+        <item>Scorpio</item>
+        <item>Senior</item>
+        <item>Shaman</item>
+        <item>Shielded</item>
+        <item>Skeleton</item>
+        <item>Spinner</item>
+        <item>Statue</item>
+        <item>Succubus</item>
+        <item>Swarm</item>
+        <item>Tengu</item>
+        <item>Thief</item>
+        <item>Warlock</item>
+        <item>Wraith</item>
+        <item>Yog</item>
+    </string-array>
+    <string-array name="armortype">
+        <item>Leather</item>
+    </string-array>
+    <string-array name="armorench">
+        <item>None</item>
+    </string-array>
+    <string-array name="item_levels">
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="mobtype">
+        <item>Rat</item>
+    </string-array>
+    <string-array name="potiontype">
+        <item>Healing Potion</item>
+        <item>Experience Potion</item>
+        <item>Strength Potion</item>
+        <item>Might Potion</item>
+        <item>Liquid Flame Potion</item>
+        <item>Frost Potion</item>
+        <item>Invisibility Potion</item>
+        <item>Levitation Potion</item>
+        <item>Mind Vision Potion</item>
+        <item>Paralytic Gas Potion</item>
+        <item>Toxic Gas Potion</item>
+        <item>Purity Potion</item>
+    </string-array>
+    <string-array name="scrolltype">
+        <item>Scroll of Identify</item>
+        <item>Scroll of Remove Curse</item>
+        <item>Scroll of Magic Mapping</item>
+        <item>Scroll of Upgrade</item>
+        <item>Scroll of Weapon Upgrade</item>
+        <item>Scroll of Recharging</item>
+        <item>Scroll of Teleportation</item>
+        <item>Scroll of Challenge</item>
+        <item>Scroll of Lullaby</item>
+        <item>Scroll of Terror</item>
+        <item>Scroll of Mirror Image</item>
+        <item>Scroll of Psionic Blast</item>
+    </string-array>
+    <string-array name="seedtype">
+        <item>Dreamweed Seed</item>
+        <item>Earthroot Seed</item>
+        <item>Fadeleaf Seed</item>
+        <item>Firebloom Seed</item>
+        <item>Icecap Seed</item>
+        <item>Sorrowmoss Seed</item>
+        <item>Sungrass Seed</item>
+    </string-array>
+    <string-array name="roomtype">
+        <item>Armory</item>
+        <item>Crypt</item>
+        <item>Garden</item>
+        <item>Laboratory</item>
+        <item>Library</item>
+        <item>Magic Well</item>
+        <item>Piranha Room</item>
+        <item>Animated Statue Room</item>
+        <item>Storage</item>
+        <item>Trapped Room</item>
+        <item>Treasury</item>
+        <item>Vault</item>
+    </string-array>
+    <string-array name="ringtype">
+        <item>Ring of Accuracy</item>
+        <item>Ring of Detection</item>
+        <item>Ring of Elements</item>
+        <item>Ring of Evasion</item>
+        <item>Ring of Haggler</item>
+        <item>Ring of Haste</item>
+        <item>Ring of Herbalism</item>
+        <item>Ring of Mending</item>
+        <item>Ring of Power</item>
+        <item>Ring of Satiety</item>
+        <item>Ring of Shadows</item>
+        <item>Ring of Thorns</item>
+    </string-array>
+    <string-array name="wandtype">
+        <item>Wand of Amok</item>
+        <item>Wand of Avalanche</item>
+        <item>Wand of Blink</item>
+        <item>Wand of Disintegration</item>
+         <item>Wand of Firebolt</item>
+        <item>Wand of Flock</item>
+        <item>Wand of Lightning</item>
+        <item>Wand of Magic Missile</item>
+         <item>Wand of Poison</item>
+        <item>Wand of Regrowth</item>
+        <item>Wand of Slowness</item>
+        <item>Wand of Teleportation</item>
+         <item>Wand of Telekinesis</item>
+    </string-array>
+    <string-array name="consumabltetype">
+        <item>Ankh</item>
+        <item>Dew Vial</item>
+        <item>Gold</item>
+        <item>Food</item>
+         <item>Mystery Meat</item>
+        <item>Scroll Holder</item>
+        <item>Seed Pouch</item>
+        <item>Wand Holster</item>
+         <item>Armor Kit</item>
+        <item>Weightstone</item>
+        <item>Lloyd´s Beacon</item>
+        <item>Arcane Stylus</item>
+         <item>Tome of Mastery</item>
+        <item>Torch</item>
+        <item>Dart</item>
+        <item>Incendiary Dart</item>
+         <item>Curare Dart</item>
+        <item>Shuriken</item>
+        <item>Javelin</item>
+        <item>Tomahawk</item>
+    </string-array>
+    <string-array name="mobfrequ">
+        <item>Never</item>   
+        <item>Rare</item>
+        <item>Default</item>
+        <item>Common</item>
+        <item>Frequent</item>
+    </string-array>
+    <string-array name="bosschoose">
+        <item>None</item>
+        <item>Exist</item>
+    </string-array>
+</resources>

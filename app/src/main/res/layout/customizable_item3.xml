@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 	xmlns:android="http://schemas.android.com/apk/res/android"	
+	android:orientation="vertical" 
+	android:id="@+id/wand_ringlinearayout"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:padding="15dp"> 
+		
+	    
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:gravity="center_vertical" >
+	    
+	    
+
+	    <Spinner
+	        android:id="@+id/wand_ring_typespinner"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="2"
+	        android:layout_marginRight="10dp" />
+
+	    <TextView
+	        android:id="@+id/level_tv"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="0"
+	        android:text="Level :" 
+	        android:textSize="16sp"/>
+
+	    <Spinner
+	        android:id="@+id/wand_ring_level_spinner"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"/>
+
+	</LinearLayout>
+	   
+	<LinearLayout 		
+		android:orientation="horizontal" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center_vertical">
+        <Button
+            android:id="@+id/wand_ring_deletbt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete"
+            android:textSize="16sp"
+            />
+	     
+    </LinearLayout>
+        
+</LinearLayout>
+
+
